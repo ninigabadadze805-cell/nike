@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+    
+}
+.frame {
+    width: 100%;
+    padding: 20px 40px 20px 40px;
+   
+}    
+
+  .lifestyle {
+        width:1360px;
+        height:79px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items:flex-end;
+
+        .marcxniv{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        }
+
+    }
+    
+   
+.card {
+    width:1360px;
+    height: auto;
+    margin: 0 auto;
+    padding: 20px 0;
+    display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: space-between;
+
+    .product_image img{
+        width:310px;
+        height:323px;
+    }
+
+
+ .forma_erTi{
+    width: 310px;;
+    height: 67px;
+ 
+
+    .product-info{
+        font-family: Inter;
+        display: flex;
+        justify-content:space-between ;
+        
+        .teqsti{
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .fasi{
+            font-size: 12px;
+        }
+        .
+    }
+ }
+ .forma{
+    font-size: 12px;
+    color: #00000080;
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+ }
+
+}
+ 
